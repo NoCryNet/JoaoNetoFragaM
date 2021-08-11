@@ -1,4 +1,4 @@
-- 👋 Hi, I’m João Neto FragaM, Young And Begginer In JavaScript And NodeJS
+- 👋 Hi, I’m João Neto FragaM, Young And Begginer In JavaScript And NodeJS,
 my means of contact below :D
 
 
